@@ -3,7 +3,7 @@ homework4
 
 Git repo for Homework 4.
 
-### The Assignment
+## The Instructions
 
 #### Problem 1: Use Sage to investigate the following problem in number theory. 
     
@@ -25,3 +25,15 @@ I made up a rational number alpha whose numerator and denominator each have 7 di
 Here's two facts about that rational number:    
 (1) it is congruent to 372806624339965 modulo 37+10^15;    
 (2) its decimal expansion begins 0.13869616280169693.... What do you think my rational number is?    
+    
+## Problem 1
+
+I investigated the Euler-like polynomials in a sage worksheet, saved as problem_1.sagews (add link to this).    
+    
+## Problem 2
+    
+...
+    
+## Problem 3
+    
+Alpha is 1234567/8901234. Reasoning to come.    
