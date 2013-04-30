@@ -8,8 +8,7 @@ Git repo for Homework 4.
 #### Problem 1: Use Sage to investigate the following problem in number theory. 
 
 Let f(x)=x^2 + a*x + b be a quadratic polynomial with integer coefficients, for example, f(x) = x^2+x+6.    
-Formulate a conjecture about when the set {f(n) : n in Z and f(n) is prime} is infinite.     
-Paste a link below to a file or directory on github.    
+Formulate a conjecture about when the set {f(n) : n in Z and f(n) is prime} is infinite.       
 
 #### Problem 2: Distribution of primes modulo n.  
 
