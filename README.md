@@ -28,7 +28,7 @@ Here's two facts about that rational number:
     
 ## Problem 1
 
-I investigated the Euler-like polynomials in a sage worksheet, saved [here](https://github.com/shannonzylstra/homework4/blob/master/problem_1.sagews)    
+I investigated the Euler-like polynomials in a sage worksheet, saved [here](https://github.com/shannonzylstra/homework4/blob/master/problem_1.sagews).    
     
 ## Problem 2
     
