@@ -13,7 +13,7 @@ Paste a link below to a file or directory on github.
 
 #### Problem 2: Distribution of primes modulo n.  
     
-Let n=15. 
+Let n=15.    
 (1) Plot a frequency histogram that shows how the prime numbers up to 10^7 are distributed modulo n. (stats.TimeSeries has a nice histogram method).    
 (2) Make a conjecture based on your data.    
 (3) Obtain data for other values of n and make a more general conjecture. (This is known as Dirichlet's theorem.)    
@@ -28,11 +28,11 @@ Here's two facts about that rational number:
     
 ## Problem 1
 
-I investigated the Euler-like polynomials in a sage worksheet, saved as problem_1.sagews (add link to this).    
+I investigated the Euler-like polynomials in a sage worksheet, saved as problem_1.sagews.
     
 ## Problem 2
     
-...
+I investigated the distribution of primes mod n in a sage worksheet.
     
 ## Problem 3
     
