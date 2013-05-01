@@ -1,3 +1,5 @@
+# Hi Professor Stein!
+# Check out the README.md file for this directory for the complete response to Homework 4.
 ︠e903129c-0d81-475a-bc65-d8e6a5a32721︠
 # Practice histogram
 
