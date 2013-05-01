@@ -1,3 +1,5 @@
+# Hi Professor Stein!
+# Check out the README.md file for this directory for the complete response to Homework 4.
 ︠918e502b-914c-43c8-9a6c-c00e14f94251︠
 # Use continued fractions to find alpha
 alpha_decimal = 0.13869616280169693
