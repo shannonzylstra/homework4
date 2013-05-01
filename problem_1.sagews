@@ -1,6 +1,8 @@
+# Hi Professor Stein!
+# Check out the README.md file for this directory for the complete response to Homework 4.
 ︠dcd3812a-68b3-4688-97dd-28c82f14bcc7︠
 # The "lucky Euler numbers" are the coefficients b such that
-# x^2 + x + b is prime for x = 0,1,...,b-2
+# x^2 + x + b is prime for x = 0,1,...,b-2 (not infinite)
 lucky_euler = [2,3,5,11,17,41]
 
 # evaluate f(x) = x^2 + x + b, make sure it is prime
@@ -21,8 +23,8 @@ for bb in (0..len(lucky_euler)-1):
 # The difference between the nth and (n+1)th values of f(n) is precisely
 # the difference between the nth and (n+1)th primes!
 
-# calculate steps of polynomial with given b
-def poly_steps(b):
+# calculate steps of Euler-like polynomial with given b
+def poly_steps(b):-+
     steps = []
     for x in (0..b-3):
         steps.append(prime_poly(x+1,b) - prime_poly(x,b))
