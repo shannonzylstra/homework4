@@ -34,4 +34,5 @@ I investigated the distribution of primes mod n in a sage worksheet. See [proble
     
 ## Problem 3
     
-Alpha is 1234567/8901234. Reasoning to come.    
+I used sage to find the mystery number alpha.    
+To see my work in a sage worksheet, check out [problem_3.sagews](https://github.com/shannonzylstra/homework4/blob/master/problem_3.sagews).    
